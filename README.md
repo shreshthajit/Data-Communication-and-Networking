@@ -13,3 +13,6 @@ Some basic types of servers include:
 ➤ Web Server 🌐: web server delivers web pages to users over the internet. It handles requests from browsers and serves up HTML pages, images, and other web content.
 
 ➤ DNS Server 💻: Translates domain names into IP addresses that computers use to identify each other on the network.
+
+![servers](https://github.com/shreshthajit/Data-Communication-and-Networking/assets/43321488/3c250acb-fcc1-4363-9217-c67e4ae4e535)
+
