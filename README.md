@@ -16,3 +16,5 @@ Some basic types of servers include:
 
 ![servers](https://github.com/shreshthajit/Data-Communication-and-Networking/assets/43321488/3c250acb-fcc1-4363-9217-c67e4ae4e535)
 
+
+[Command for check DNS resolution](https://dotnet-helpers.com/powershell/check-dns-resolution-in-windows/)
