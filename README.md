@@ -18,5 +18,9 @@ Some basic types of servers include:
 
 ![servers](https://github.com/shreshthajit/Data-Communication-and-Networking/assets/43321488/3c250acb-fcc1-4363-9217-c67e4ae4e535)
 
+![attack](https://github.com/shreshthajit/Data-Communication-and-Networking/assets/43321488/7e1b0f00-3859-4cf0-970f-fe272fd559f6)
 
 [Command for check DNS resolution](https://dotnet-helpers.com/powershell/check-dns-resolution-in-windows/)
+
+
+
